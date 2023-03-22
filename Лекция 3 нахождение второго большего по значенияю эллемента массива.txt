@@ -1,0 +1,19 @@
+array = [1, 8, 3, 2, 6]
+size = [5]
+first = array[0]
+second = array[0]
+current_idex = [0]
+if (array[1] > first) then
+    first = array[1]
+else
+    second = array[1]
+current_idex = 2
+while (current_idex < size) do
+    if (array[current_idex] > first) then
+        second = first
+        first = array[current_idex]
+    else
+        if (array[current_idex] > second) then
+            second = array[current_idex]
+    current_index = current_index + 1
+print(second)
