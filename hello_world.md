@@ -1,11 +1,12 @@
-Hello world
-
+# First Lesson "Control version"
 started oure meeting with "control version"
 
+## Text marking
 *text.*
 
 **text_fat_mark**
 
+## List variation
 * element 1
 * element 2
 * element 3
