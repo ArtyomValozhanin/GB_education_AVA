@@ -7,3 +7,4 @@ Terminal
 
 ## git regulation
 ## repository initialization 
+## save fail changes
