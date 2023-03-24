@@ -8,3 +8,5 @@ Terminal
 ## git regulation
 ## repository initialization 
 ## save fail changes
+## writing a change to the repository
+## getting info about the history of sommites
