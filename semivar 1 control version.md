@@ -10,3 +10,5 @@ Terminal
 ## save fail changes
 ## writing a change to the repository
 ## getting info about the history of sommites
+## comparison with the last commit
+## Moves between saves
