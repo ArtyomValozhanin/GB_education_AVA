@@ -6,3 +6,4 @@ Terminal
 - 
 
 ## git regulation
+## repository initialization 
