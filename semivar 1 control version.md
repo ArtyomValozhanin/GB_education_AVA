@@ -4,3 +4,5 @@
 Terminal
 - git version (view information 'file version')
 - 
+
+## git regulation
