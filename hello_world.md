@@ -4,7 +4,7 @@ started oure meeting with "control version"
 ## Text marking
 *text.*
 
-**text_fat_mark**
+**text_fat_mark.**
 
 ## List variation
 * element 1
