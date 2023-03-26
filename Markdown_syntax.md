@@ -28,6 +28,7 @@ _text_cursiv 2_
 
 ## Insert the picture
 ![text](picture file_name)
+
 ![](%23markdown_logo.jpg)
 
 ## Insert link
