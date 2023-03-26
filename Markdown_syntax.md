@@ -1,5 +1,5 @@
 # Markdown syntax
-![](MD_logo.png)
+![md_logo](MD_logo.png)
 ## Text marking
 
 ~~crossed text~~
@@ -29,9 +29,10 @@ ___
 ## Insert the picture
 ![text](picture file_name)
 
-![](markdown_logo.jpg)
+![markdown](markdown_logo.jpg)
 
-## Insert link
+## Add links
+[cat whith laptop](https://krasivosti.pro/uploads/posts/2021-04/thumbs/1617927325_12-p-kotik-za-kompyuterom-14.jpg)
 
 ## worcking whith tables
 
