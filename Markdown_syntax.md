@@ -1,4 +1,5 @@
 # Markdown syntax
+![](MD_logo.png)
 ## Text marking
 
 ~~crossed text~~
@@ -10,7 +11,7 @@ __text_fat_mark 2__
 *text_cursiv 1*
 
 _text_cursiv 2_
- 
+
 Альтернативные способвы выделения нужны для совмещения обоих вариантов выделения тексата например: _**оба варианта**_ *выделения* __текста__. 
 ## List variation
 * element 1
@@ -25,9 +26,14 @@ _text_cursiv 2_
 > quote 1
 >> quote 2
 
-## Insert the picture (jpg)
-![text](picture_file name.jpG)
+## Insert the picture
+![text](picture file_name)
+![](%23markdown_logo.jpg)
+
 ## Insert link
 
 ## worcking whith tables
 
+
+
+[def]: MD_logo.png
