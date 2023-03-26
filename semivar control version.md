@@ -1,21 +1,17 @@
-# Seminar #1 control of version
+# Seminar control version (Git_instruktion)
 
 ## 1 check-out install git
 - Terminal (В установленном VSC открываем "терминал", проверяем что терпинал открыт и работает один для наших файлов)
 - git version ore "git -v" (проверяем какая версия установлена в какой папке работаем)
 ## 2 git configuration
 - git config (внесение данных пользователя name; E-mail)
+- git config --local user.email (команда внесения локальных данных, почта)
+- git config --local user.name (команда внесения локальных данных, имя)
+- git config --list (вся инфо о пользователе как глобальная так и локальная)
+- git config --list --global (проверка внешних внесённых данных пользователя)
+- git config --list --local (проверка локальных данных пользователя ПК, система и т.д.)
 
-(git config [< options >])
-
-    --global (изменение "внешних" данных пользователя name; E-mail)
-    --system (use system config file)
-    --local (use repository config file)
-    --worktree (use per-worktree config file)
-    -f, --file < file > (use given config file)
-    --blob <blob-id> (read config from given blob object)
-
-- status (просмотр измененных и отслеживаемых файлов) 
+- ets/gitconfig (конфигурация всей системы в целом и для нескольких пользователей)
 
 ## 3 repository initialization 
 - git init (делает указанную папку "рабочей" для отслеживания изменяемых файлов)

@@ -22,7 +22,7 @@ ___
 2. second element
 3. third element
 
-## Quote
+## Quote (цитаты)
 > quote 1
 >> quote 2
 
