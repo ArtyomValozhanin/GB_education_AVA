@@ -3,12 +3,15 @@ started oure meeting with "control version"
 
 ## Text marking
 
-
 **text_fat_mark.**
+
+__text_fat_mark__
 
 *text_cursiv 1*
 
 _text_cursiv 2_ 
+
+Альтернативные способвы выделения нужны для совмещения обоих вариантов выделения тексата например: _**оба варианта**_ *выделения* __текста__. 
 
 ~~crossed text~~
 
