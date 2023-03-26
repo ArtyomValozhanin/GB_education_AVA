@@ -31,11 +31,13 @@ ___
 
 ![markdown](markdown_logo.jpg)
 
-## Add links
-[cat whith laptop](https://krasivosti.pro/uploads/posts/2021-04/thumbs/1617927325_12-p-kotik-za-kompyuterom-14.jpg)
+>>>>>>### Insert link
+[cat inside me](https://yt3.ggpht.com/ytc/AAUvwniT_bv5vTwdU3vtL9tGYRDQ_2AoS80-BMw-6V4qrQ=s900-c-k-c0x00ffffff-no-rj) (да, на фото мой внутренний котик когда я не разбираю работу, не вожусь с детьми и не делаю уроки по GeekBrain! А что ?! Все любят котикофф!)
+>>>>>>### worcking whith tables
 
-## worcking whith tables
+| houres per week | time to study (weeks) | Total hours | IT rank |
+| ---- | ---- | ---- | ---- |
+| ~10 | ~96 | 960 | Master |
+| ~10 | ~144 | 1440 | Analyst |
 
-
-
-[def]: MD_logo.png
+Пример создания простой таблицы, на основании часов обучения в GB (Давай не ной :Р) 
