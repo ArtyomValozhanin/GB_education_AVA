@@ -1,20 +1,17 @@
-# First Lesson "Control version"
-started oure meeting with "control version"
-
+# Markdown syntax
 ## Text marking
-
-**text_fat_mark.**
-
-__text_fat_mark__
-
-*text_cursiv 1*
-
-_text_cursiv 2_ 
-
-Альтернативные способвы выделения нужны для совмещения обоих вариантов выделения тексата например: _**оба варианта**_ *выделения* __текста__. 
 
 ~~crossed text~~
 
+**text_fat_mark 1**
+
+__text_fat_mark 2__
+
+*text_cursiv 1*
+
+_text_cursiv 2_
+ 
+Альтернативные способвы выделения нужны для совмещения обоих вариантов выделения тексата например: _**оба варианта**_ *выделения* __текста__. 
 ## List variation
 * element 1
 * element 2
