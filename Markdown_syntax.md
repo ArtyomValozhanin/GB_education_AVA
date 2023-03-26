@@ -24,3 +24,10 @@ _text_cursiv 2_
 ## Quote
 > quote 1
 >> quote 2
+
+## Insert the picture (jpg)
+![text](picture_file name.jpG)
+## Insert link
+
+## worcking whith tables
+
