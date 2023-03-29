@@ -1,9 +1,0 @@
-function find_max(array):
-size = array.length
-index = 0
-max = array[0]
-while (index < size) do
-    if (array[index] > max) then
-        max = array[index]
-    index = index + 1
-return(max)
