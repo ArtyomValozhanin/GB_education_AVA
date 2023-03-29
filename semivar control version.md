@@ -1,4 +1,4 @@
-# Seminar control version (Git_instruktion)
+>>># Seminar control version (Git_instruktion)
 
 ## 1 check-out install git
 - **Terminal** (В установленном VSC открываем "терминал", проверяем что терпинал открыт и работает один для наших файлов)
@@ -13,7 +13,7 @@
 - **ets/gitconfig** (конфигурация всей системы в целом и для нескольких пользователей)
 ## 3 repository initialization 
 - **git init** (делает указанную папку "рабочей" для отслеживания изменяемых файлов)
-## 4 save fail changes
+## 4 save file changes
 - **git add** (добавдяет файл к отслеживанию изменений)
 - **git commit** (добавляет коментарий, как правило к внесенному изменению)
 - **git commit -am** (одновременно и сохраняет и коментирует файл)
