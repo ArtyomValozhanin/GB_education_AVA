@@ -25,6 +25,7 @@
 ## 5 added change to the repository
 - **git commit** - добавляет коментарий, как правило к внесенному изменению
 - **git commit -am** - одновременно и сохраняет и коментирует файл
+- **git commit --amend** - пересохраняет последний коммит, позволяет внести исправление.
 
 ## 6 getting info about history of commits
 - **git log** - смотрим список сохранений
